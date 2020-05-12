@@ -1,0 +1,24 @@
+over all layout
+* set different colors for sections, .bg-blue-500, .bg-blue-600, etc.
+
+scrolling behaviors
+* use lorem ipsum (+vs code ext) to fill up containers that need scrolling debugging
+* classes like flex flex-col flex-1 h-screen
+
+colors
+
+default text size, color on app container
+
+style scrollbars
+
+font weights, padding (headlines?)
+
+border
+
+navigation icons
+* iconjar copy as inline code
+* svgomg to optimize it? paste & grab
+* add .fill-current or fill: current-color, .text-white
+* tailwind group hover
+
+
